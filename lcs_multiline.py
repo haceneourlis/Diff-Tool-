@@ -1,5 +1,3 @@
-from lcs import lcs
-
 def lcs_multiline(X, Y):
     m = len(X)
     n = len(Y)
